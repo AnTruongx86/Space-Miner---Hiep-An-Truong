@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 580db31db6c8549bca4b04d962af035b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverText: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - explosionSound: {fileID: 8300000, guid: 2bea6a8bad11a4fbebecddaad6a2376b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
